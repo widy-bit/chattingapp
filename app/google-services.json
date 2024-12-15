@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339945388832",
+    "project_id": "vrjk-chat-app",
+    "storage_bucket": "vrjk-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339945388832:android:46f93a0af223d339b5b545",
+        "android_client_info": {
+          "package_name": "com.example.chattingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDpgxJtu7-IyzAC31a1zHUtkykGIzlmXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
